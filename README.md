@@ -1,11 +1,12 @@
-# FootballAI Analyzer ⚽
+# ⚽ FootballAI Analyzer
 
-Analizzatore intelligente di partite di calcio (oggi, domani, dopodomani) con focus su scommesse: **1X2, Over/Under, Multigoal, Cartellini, Angoli**.
+Analizzatore IA di partite di calcio (oggi, domani, dopodomani) con previsioni scommesse: **1X2, Over/Under, Multigoal, Cartellini, Angoli**.
 
 **Caratteristiche**:
-- Analisi basata su forma, infortuni, H2H, statistiche
+- Partite Mondiali 2026 + altri match
+- Analisi forma, infortuni, H2H
 - Quote stimate > 1.50
-- Fonti: Sofascore, Flashscore, Transfermarkt
+- Versione semplice (senza API a pagamento)
 
 ## Installazione
 
